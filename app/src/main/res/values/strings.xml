@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SongPedia</string>
+    <string name="speech_prompt"><![CDATA[Say something]]></string>
+    <string name="speech_not_supported">Sorry! Your device doesn\\\'t support speech input</string>
+    <string name="label_artist">Artist</string>
+    <string name="label_genre">Genre</string>
+    <string name="label_country">Country</string>
+    <string name="label_album_price">Album Price</string>
+    <string name="label_track_count">Total Tracks in Album</string>
+    <string name="label_release_date">Release Date</string>
+    <string name="label_album_name">Album Name</string>
+    <string name="label_time">Duration</string>
+    <string name="label_track_price">Track Price</string>
+    <string name="hint_artist_name">Enter artist name</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_clear">Clear</string>
+</resources>

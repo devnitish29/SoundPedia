@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_light">#DBDBDB</color>
+    <color name="gray">#555555</color>
+    <color name="gray_dark">#5F5F5F</color>
+    <color name="gray_very_dark">#000000</color>
+    <color name="black">#323232</color>
+    <color name="gray_very_light">#f6f6f6</color>
+    <color name="gray_chat_gray">#f5f4f4</color>
+    <color name="gray_chat_label_blue">#b2e9ed</color>
+    <color name="divider_gray">#dfdfdf</color>
+    <color name="status_bar_color">#0097A7</color>
+    <color name="title_bar_color">#CC0000</color>
+    <color name="progress_bar_color">#0000CC</color>
+    <!-- Color Palette -->
+    <!-- ============= -->
+
+
+    <color name="tertiary">#6c2fb0</color>
+    <color name="tertiary_dark">#ff5c2b9b</color>
+    <color name="black_05">#10000000</color>
+    <color name="black_10">#1F000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_30">#4D000000</color>
+    <color name="black_54">#8A000000</color>
+    <color name="black_55">#8C000000</color>
+    <color name="black_85">#D9000000</color>
+    <color name="black_70">#B3000000</color>
+    <color name="black_87">#DE000000</color>
+    <color name="black_95">#F2000000</color>
+
+    <color name="white_55">#8CFFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="white_26">#42000000</color>
+    <color name="white_75">#BFFFFFFF</color>
+    <color name="white_25">#40FFFFFF</color>
+
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_15">#26FFFFFF</color>
+
+
+    <!-- Accent -->
+    <color name="accent">#63FFD9</color>
+    <color name="accent_light">#A6FFEA</color>
+    <color name="accent_dark">#1CE8B5</color>
+
+    <!-- Light Theme -->
+    <color name="light_bg">#EEEEEE</color>
+    <color name="light_primary">#57000000</color>
+    <!-- 87% -->
+    <color name="light_secondary">#36000000</color>
+    <!-- 54% -->
+    <color name="light_disabled">#1A000000</color>
+    <!-- 26% -->
+
+    <!-- Dark Theme -->
+    <color name="dark_bg">#303030</color>
+    <color name="dark_primary">#FFFFFF</color>
+    <!-- 100% -->
+    <color name="dark_secondary">#46FFFFFF</color>
+    <!-- 70% -->
+    <color name="dark_disabled">#1EFFFFFF</color>
+    <!-- 30% -->
+
+    <!-- onboarding -->
+    <color name="onboarding_bg">#dc6c2fb0</color>
+
+    <!-- Custom -->
+    <color name="purple_primary">#46349E</color>
+
+    <!-- Border Colors -->
+    <color name="border_black_alpha_10">#1A000000</color>
+
+    <color name="black_overlay">#B3000000</color>
+
+    <color name="onboarding_employment_status_bg">#fcd734</color>
+    <!--yellow-->
+    <color name="onboarding_job_search_status_bg">#ffff00</color>
+    <!--yellow-->
+    <color name="onboarding_work_experience_bg">@color/yellow_600</color>
+    <!--yellow-->
+    <color name="company_onboarding_button_bg">#fdd835</color>
+    <!--yellow-->
+
+    <color name="onboarding_bg_new">#f4f4f4</color>
+    <!--yellow-->
+    <color name="white_69">#B0FFFFFF</color>
+
+    <color name="yellow_600">#fdd835</color>
+    <color name="yellow_600_pressed">#c5b73f</color>
+    <color name="button_shadow_color">#18000000</color>
+
+    <color name="deep_purple_500">#673AB7</color>
+    <color name="disabled_black_26">#1a000000</color>
+
+    <color name="floating_label_color">#757575</color>
+
+    <!-- Company Profile -->
+    <color name="female_pink">#E9195F</color>
+    <color name="male_blue">#26C4D8</color>
+
+    <!--Candidate Profile-->
+    <color name="blue_500">#0ba3ad</color>
+    <color name="blue_700">#1976d2</color>
+    <color name="blue_900">#0D47A1</color>
+    <color name="pink_500">#e91e63</color>
+    <color name="pink_700">#C2185B</color>
+    <color name="deep_purple_700">#673AB7</color>
+    <color name="green_500">#4caf50</color>
+    <color name="amber_500">#ffc107</color>
+    <color name="yellow_a200">#FFFF00</color>
+    <color name="teal_400">#26a69a</color>
+    <color name="red_400">#ef5350</color>
+    <color name="indigo_700">#303f9f</color>
+    <color name="yellow_700">#FBC02D</color>
+    <color name="purple_900">#311B92</color>
+    <color name="purple_overlay">#C423124B</color>
+
+
+    <color name="pink_opacity_12">#cd1a57</color>
+
+    <!-- onboarding v2 -->
+    <color name="deep_pruple_500">#673AB7</color>
+    <color name="purple_dark">#5A32A0</color>
+    <color name="deep_purple_status">#7B1FA2</color>
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="light_blue_500">#03A9F4</color>
+
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+
+    <color name="red_600">#E53935</color>
+    <color name="red_600_opacity_12">#C9322E</color>
+
+    <color name="lightblue_500">#03A9F4</color>
+    <color name="lightblue_500_opacity_12">#0294D6</color>
+    <color name="pink_dark">#cc1a56</color>
+    <color name="green_a700">#00c853</color>
+    <color name="green_dark">#00af48</color>
+
+    <color name="green_a700_opacity_12">#00AF48</color>
+
+    <color name="pink_500_opacity_12">#CC1A56</color>
+
+    <color name="red_status_color">#C62828</color>
+    <color name="light_blue_status_color">#0288D1</color>
+    <color name="deep_purple_status_color">#4E2C8B</color>
+    <color name="green_status_color">#008F3C</color>
+    <color name="pink_status_color">#C2185B</color>
+    <color name="light_divider_color">#1FFFFFFF</color>
+    <color name="dark_divider_color">#1F000000</color>
+    <color name="light_helper_text_color">#B0FFFFFF</color>
+    <color name="dark_hint_text">#40000000</color>
+    <color name="black_roles">#37474F</color>
+    <color name="black_dark">#2F3E45</color>
+    <color name="black_salary">#263238</color>
+    <color name="black_status_color">#1C262A</color>
+
+    <color name="black_button">#8C000000</color>
+    <color name="black_dark_role">#303E45</color>
+
+    <color name="splash_red">#B71C1C</color>
+    <color name="purple_light">#4dd1c3e9</color>
+    <color name="blue_dark">#1C83D5</color>
+    <color name="white_opacity_12">#18FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+
+    <color name="black_dark_roles_12">#283339</color>
+    <color name="light_purple">#ac82f4</color>
+    <color name="blue_500_alpha">#CC2196f3</color>
+    <color name="green_funding_dark">#4caf4f</color>
+    <color name="green_status_bar">#449d47</color>
+    <color name="green_funding_outer_card">#4bae4f</color>
+    <color name="gray_light_perks">#f5f7f8</color>
+    <color name="blue_key_people">#04a9f4</color>
+    <color name="yellow_milestone">#deffeb3b</color>
+
+    <color name="orange">#FF9926</color>
+    <color name="gray_background">#F6F6F6</color>
+    <color name="orange_status_color">#FFA000</color>
+    <color name="white_60">#99FDFDFD</color>
+
+    <!-- circular progress bar colors -->
+    <color name="circular_progress_default_progress">#ffeb3c</color>
+    <color name="circular_progress_default_background">#311b92</color>
+    <color name="circular_progress_default_title">#ffeb3c</color>
+    <color name="circular_progress_default_subtitle">#D1D1D1</color>
+    <color name="circular_progress_bg">#3c3c3c</color>
+
+    <color name="settings_bg">#E23B3B</color>
+    <color name="setting_bg_dark">#B52F2F</color>
+    <color name="about_me_bg">#E62565</color>
+    <color name="about_me_bg_dark">#CF205A</color>
+    <color name="pink_dark_about">#B81D50</color>
+    <color name="purple_comepnsation">#673FB4</color>
+    <color name="purple_compensation_dark">#5C39A2</color>
+    <color name="pink_example">#ba184f</color>
+
+
+    <!--<color name="health_tip_title_bg">#444252</color>-->
+    <color name="health_tip_title_bg">#582BA1</color>
+    <color name="health_tip_button_color">#EA2A63</color>
+
+    <color name="scrim">#42000000</color>
+    <color name="path_primary">#E62F17</color>
+    <color name="path_orange">#FF5500</color>
+    <color name="path_blue">#1774E6</color>
+    <color name="path_black">#403B36</color>
+    <color name="path_green">#5FB336</color>
+    <color name="path_purple">#49098A</color>
+
+    <color name="whatsapp_share_bg">#4dc247</color>
+    <color name="facebook_share_bg">#3b5998</color>
+    <color name="twitter_share_bg">#00aced</color>
+    <color name="more_share_bg">#FFA000</color>
+
+    <color name="colorPrimaryTransparent">#aa0ba3ad</color>
+    <color name="sdkColorPrimary">#0ba3ad</color>
+    <color name="colorPrimaryDark">#01757d</color>
+    <color name="colorAccent">#0ba3ad</color>
+    <color name="light_primary_">#cbeef1</color>
+    <color name="white">#ffffff</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+    <color name="login_clicked">#5dab09</color>
+    <color name="login_normal">#88d13a</color>
+
+
+
+    <color name="semi_transperent_black">#88000000</color>
+    <color name="transperent_black">#00000000</color>
+
+    <!--star colors-->
+    <color name="one_star">#fef200</color>
+    <color name="two_star">#c4df9c</color>
+    <color name="three_star">#8dc73f</color>
+    <color name="four_star">#00a652</color>
+    <color name="five_star">#007236</color>
+    <!--star colors-->
+
+    <color name="negative_experience">#fa7759</color>
+    <color name="positive_experience">#7cc576</color>
+
+    <color name="green_color">#04c845</color>
+    <color name="grey_color">#858585</color>
+    <color name="black_color">#3d3d3d</color>
+    <color name="grey_payment">#5C5C5C</color>
+    <color name="Thick_green_color">#55d169</color>
+    <color name="Thin_green_color">#65d978</color>
+    <color name="Thin_yellow_color">#d9d947</color>
+    <color name="edittext_line_color">#a9a9a9</color>
+    <color name="background_color_pstakecare_advantage">#f2eeee</color>
+    <color name="PST_background_color">#f8f8f8</color>
+    <color name="PST_transition_title_color">#a1a1a1</color>
+    <color name="blue_strip_color">#68c6cc</color>
+    <color name="orange_strip_color">#fed47a</color>
+    <color name="blue_city_button_color">#208adc</color>
+    <color name="city_seprater_line_color">#e3e3e3</color>
+    <color name="whypstakecare_indicator_color">#cccccc</color>
+    <color name="whypstakecare_background_card_color">#f6f6f6</color>
+    <color name="whypstakecare_active_indicator_color">#707070</color>
+    <color name="discovery_card_color_blue">#20a3e1</color>
+    <color name="discovery_card_color_green">#55d169</color>
+
+
+    <color name="pager_bullet_active">#ffffff</color>
+    <color name="pager_bullet_inactive">#26C4D8</color>
+    <!--chat colors-->
+    <color name="chat_light_blue">#5fcdd3</color>
+    <color name="chat_light_green">#55d169</color>
+    <color name="chat_image_grey">#ededed</color>
+
+    <color name="light_gray">#cacaca</color>
+    <color name="payment_received_label">#DFF0CB</color>
+    <color name="chat_will_expired_label">#FDFDCD</color>
+    <color name="update_title_color">#1f1f1f</color>
+    <color name="update_text_color">#5b5b5b</color>
+    <color name="coupon_border">#F2F3F3</color>
+    <color name="orange_dark">#E8621E</color>
+    <color name="chat_expired_label">#BBD7EB</color>
+    <color name="doc_profile_preview">#80E0E0E0</color>
+    <color name="colorPrimary">#0ba3ad</color>
+</resources>

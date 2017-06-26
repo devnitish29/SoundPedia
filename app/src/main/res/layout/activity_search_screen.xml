@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/minimum_padding"
+    tools:context="com.development.nitish.activity.SearchScreenActivity">
+
+
+    <EditText
+        android:id="@+id/edArtist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_small"
+        android:hint="@string/hint_artist_name"
+        android:padding="@dimen/minimum_padding" />
+
+    <LinearLayout
+        android:id="@+id/btnLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edArtist"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_green"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/margin_small"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:padding="@dimen/min_padding"
+            android:text="@string/label_submit" />
+
+        <ImageButton
+            android:id="@+id/btnMike"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/margin_small"
+            android:gravity="center"
+            android:background="@drawable/button_gray"
+            android:padding="@dimen/minimum_padding"
+            android:src="@drawable/ic_mic_red_a700_24dp" />
+
+        <Button
+            android:id="@+id/btnClear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/button_red"
+            android:layout_margin="@dimen/margin_small"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:padding="@dimen/min_padding"
+            android:text="@string/label_clear" />
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rcTrackList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/btnLayout"
+        android:layout_margin="@dimen/margin_small" />
+
+
+</RelativeLayout>
